@@ -57,3 +57,5 @@ TYPE_STEREO_OVER_UNDER：
 
 # 这下子明白了吧，图片的不同，选择的不同的模式，就可以了。 #
 [Demo下载](https://github.com/gemgao/ArDemo "ArDemo")
+[简书](http://www.jianshu.com/p/aded92aa7140)
+[csdn](http://blog.csdn.net/gemgaozhen/article/details/78021669)
